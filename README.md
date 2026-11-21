@@ -9,8 +9,9 @@ Userscript for Safari that automatically clicks YouTube's **Skip Ad** button as 
 1. Install [Userscripts](https://apps.apple.com/app/userscripts/id1463298887) from the Mac App Store.
 2. Open the app, click **Set Directory**, and pick a folder.
 3. Safari > Settings > Extensions: enable **Userscripts** and allow it on `youtube.com`.
-4. Download [`youtube-auto-skip.user.js`](./youtube-auto-skip.user.js) into that folder.
-5. Click the Userscripts toolbar icon, hit refresh, and reload YouTube.
+4. Download [`youtube-auto-skip.user.js`](https://raw.githubusercontent.com/ayushpatel1642-lab/youtube-auto-skip-safari/main/youtube-auto-skip.user.js) into that folder.into that folder.
+5. 
+6. Click the Userscripts toolbar icon, hit refresh, and reload YouTube.
 
 ## What it does
 
